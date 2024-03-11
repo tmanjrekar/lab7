@@ -2,15 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "quarto5",
+    "title": "index",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my website!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am an senior honors biology student at UMass Amherst pursuing a career in the medical field as either a PA or an MD. I am currently working on a thesis about postpartum healthcare inequalities in the United States. I have clinical experience, leadership experience, and volunteer experience in both healthcare and non-healthcare settings. I am motivated and excited to continue my education and experience in the medical field."
+  },
+  {
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "This is my lab page.\nLab 1\nLab 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is the project page.\nProject 1\nProject 2"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "This is my presentation page.\nPresentation 1\nPresentation 2"
   }
 ]

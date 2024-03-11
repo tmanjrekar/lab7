@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+I am an senior honors biology student at UMass Amherst pursuing a career in the medical field as either a PA or an MD. I am currently working on a thesis about postpartum healthcare inequalities in the United States. I have clinical experience, leadership experience, and volunteer experience in both healthcare and non-healthcare settings. I am motivated and excited to continue my education and experience in the medical field.
 
-```{r}
-1 + 1
-```
+![](images/TanviManjrekarPicture.jpg)

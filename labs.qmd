@@ -1,0 +1,9 @@
+---
+title: "Labs"
+---
+
+-   This is my lab page.
+
+-   Lab 1
+
+-   Lab 2

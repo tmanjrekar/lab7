@@ -9,10 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - labs.qmd
+      - presentations.qmd
+      - projects.qmd
 
 format:
   html:
-    theme: darkly
+    theme: sky
     css: styles.css
     toc: true
 
